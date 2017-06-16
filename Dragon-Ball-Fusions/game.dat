@@ -5,7 +5,7 @@ needs_system_files = false
 needs_shared_font = false
 
 [[ releases ]]
-title = "0004000000125600"
+title = "00040000001aaa00"
 region = "eur"
 release_date = "2017-02-17"
 
