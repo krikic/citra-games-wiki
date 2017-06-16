@@ -1,6 +1,6 @@
 title = "Dragon Ball Fusions"
 description = "Dragon Ball Fusions (ドラゴンボールフュージョンズ) is a role-playing video game for the Nintendo 3DS, based on the Dragon Ball franchise."
-github_issues = [1654]
+github_issues = [26]
 needs_system_files = false
 needs_shared_font = false
 
